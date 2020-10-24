@@ -1,5 +1,16 @@
 # Sending_Mail_with_Django
 
+## Technology Stack
+
+* Frontend
+  * HTML
+  * CSS
+  * Bootstrap
+* Backend
+  * Django
+* Database
+  * SQLite3
+
 ## Tech Stack Involved
 
 <div style="display: flex;justify-content: center;">
