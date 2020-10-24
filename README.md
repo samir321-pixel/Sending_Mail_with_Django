@@ -60,3 +60,11 @@ python manage.py runserver
 
 The project will be available at **http://127.0.0.1:8000/**.
 
+
+## Useful Resources
+
+- [Django Docs](https://docs.djangoproject.com/en/3.0/)
+- [Bootstrap Docs](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+- [Django_Mail](https://docs.djangoproject.com/en/3.1/topics/email/)
+- [Git and GitHub](https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide)
+
