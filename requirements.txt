@@ -36,7 +36,7 @@ django-filter==2.0.0
 django-heroku==0.3.1
 django-js-asset==1.2.2
 django-kronos==1.0
-django-registration==2.4.1
+django-registration==3.1.2
 django-rest-auth==0.9.3
 django-tinymce4-lite==1.7.5
 djangorestframework==3.9.1
