@@ -20,7 +20,7 @@ confusable-homoglyphs==3.2.0
 constantly==15.1.0
 cov-core==1.15.0
 coverage==5.3
-cryptography==2.7
+cryptography==39.0.1
 defusedxml==0.6.0
 distlib==0.3.0
 dj-database-url==0.5.0
